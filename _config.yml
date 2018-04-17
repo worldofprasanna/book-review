@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Book reviews of Prasanna
+email: prasannacse2005@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+I started reading books again and I want a place to review the books which I write. I can use this place for it.
+baseurl: "book"
+url: "http://worldofprasanna.in" # the base hostname & protocol for your site
+twitter_username: prasannacse2005
+github_username:  worldofprasanna
+
+# Build settings
+markdown: kramdown
