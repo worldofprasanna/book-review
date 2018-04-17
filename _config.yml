@@ -1,8 +1,17 @@
-title: Book reviews of Prasanna
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Book Reviews of Prasanna
 email: prasannacse2005@gmail.com
-description: I was reading books for sometime and I want a place to review the books which I read. I can use this place for it.
-baseurl: "book"
-url: "http://worldofprasanna.in" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  I was reading books for sometime and I want a place to review the books which I read. I can use this place for it.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://book.worldofprasanna.in" # the base hostname & protocol for your site
 twitter_username: prasannacse2005
 github_username:  worldofprasanna
 
